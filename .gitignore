@@ -1,0 +1,127 @@
+# ==========================================
+# Global OS Files
+# ==========================================
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux temp files
+*~
+
+# ==========================================
+# VS Code
+# ==========================================
+
+.vscode/
+.history/
+*.code-workspace
+
+# ==========================================
+# Python (future scripts or automation)
+# ==========================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env/
+venv/
+venv*/
+ENV/
+env/
+.venv/
+
+# ==========================================
+# Node.js (future tools / IaC helpers)
+# ==========================================
+
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ==========================================
+# Terraform
+# ==========================================
+
+# Local Terraform state and crash logs
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Sensitive data
+*.pem
+*.key
+*.tfvars
+*.tfvars.json
+
+# Terraform working directory
+.terraform/
+.terraform.lock.hcl
+
+# ==========================================
+# AWS Config & Credentials (safety!)
+# ==========================================
+
+# Never commit credentials
+.aws/
+credentials
+config
+
+# ==========================================
+# Logs & dump files
+# ==========================================
+
+logs/
+*.log
+*.out
+*.err
+
+# ==========================================
+# Images & Screenshots (optional)
+# If you'd like to track images, REMOVE this block.
+# ==========================================
+
+# portfolio/**/images/*.png
+# portfolio/**/images/*.jpg
+# portfolio/**/images/*.jpeg
+
+# ==========================================
+# Temporary project files
+# ==========================================
+
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+
+# ==========================================
+# Backup files
+# ==========================================
+
+*.bak
+*.orig
+*.old
+
+# ==========================================
+# Compiled binaries (just in case)
+# ==========================================
+
+*.exe
+*.dll
+*.so
+*.o
+*.a
+
+# ==========================================
+# End of .gitignore
+# ==========================================

@@ -1,0 +1,13 @@
+# Day 4 — Linux CLI Continued
+
+## Commands Practiced
+...
+
+## File Exploration
+...
+
+## Screenshots
+...
+
+## Takeaways
+...

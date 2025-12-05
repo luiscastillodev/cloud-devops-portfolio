@@ -42,9 +42,10 @@ Often the largest directory
 ---
 
 ## 🖼️ Screenshots
-*(Place your images in `day3/images/` and reference them like this once uploaded to GitHub)*
-
-Example:
+![/etc directory](images/etc.png)
+![/var/log directory](images/var_log.png)
+![/usr directory](images/usr.png)
+![Nano text editor](images/nano_editor.png)
 
 ---
 

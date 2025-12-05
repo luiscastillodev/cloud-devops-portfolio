@@ -22,7 +22,8 @@ This repository will expand continuously throughout the program.
 
 ## 📂 Repository Structure
 
-portfolio/
+```text
+.
 ├── day1/
 │   ├── notes.md
 │   └── images/
@@ -69,6 +70,7 @@ portfolio/
     ├── vpc/
     ├── iam/
     └── lambda/
+```
 
 ---
 
