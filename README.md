@@ -1,104 +1,143 @@
-# 🚀 Cloud & DevOps Engineering Portfolio  
-### *Hands-on AWS, Linux, Terraform, Docker, Kubernetes, and DevOps Projects*
+# 🚀 Cloud & DevOps Engineer Portfolio  
+### *by Luis Castillo — AWS | Linux | DevOps | Terraform | Docker | Kubernetes*
 
-Welcome to my Cloud & DevOps Engineering Portfolio.  
-This repository documents all hands-on labs, notes, and projects completed during my structured **6-month Cloud & DevOps Engineering Master Plan**.
+Welcome to my Cloud & DevOps Engineering portfolio.  
+This repository documents my full 6-month Cloud/DevOps training program, including hands-on AWS labs, Linux CLI work, Bash automation, Git workflows, Terraform IaC, Docker containers, Kubernetes deployments, CI/CD pipelines, SQL practice, and major cloud architecture projects.
 
-It includes AWS fundamentals, Linux CLI, Bash scripting, Git workflows, Infrastructure as Code (Terraform), containerization (Docker), orchestration (Kubernetes), CI/CD automation, SQL projects, and multiple production-style cloud deployments.
+Updated daily as I progress through structured training.
 
----
+## 🔗 Connect with Me  
+**LinkedIn:** https://www.linkedin.com/in/luiscastillomsse
 
-# 🌟 PROGRAM OVERVIEW
+# 🌟 Portfolio Overview
 
-This portfolio follows a structured 24-week program designed to take me from foundational cloud knowledge to full DevOps engineer readiness.
+This repository includes:
 
-## **📌 PHASE 1 — Foundations (Weeks 1–4)**
-**Goal:** Build strong fundamentals in cloud, Linux, Bash, IAM, EC2, VPC, S3  
-**Includes:**
-- AWS Cloud Practitioner Essentials (Modules 1–13)
-- Linux Foundation LFS101x Chapters 1–17
-- FreeCodeCamp Bash & Git fundamentals
-- Hands-on labs: EC2, IAM, S3, VPC, CloudWatch
-- Start GitHub-based portfolio
+- AWS hands-on labs (EC2, IAM, S3, VPC, CloudWatch, Lambda, RDS, ECS, etc.)  
+- Linux Foundation LFS101x exercises  
+- Bash scripting fundamentals → intermediate  
+- Git & GitHub workflows  
+- Terraform infrastructure deployments  
+- Docker containerization projects  
+- Kubernetes deployments  
+- CI/CD workflows with GitHub Actions  
+- FCC SQL + Bash projects  
+- Architecture diagrams and cloud-native capstone projects  
 
----
+# 🧭 Skill Progress Trackers
 
-## **📌 PHASE 2 — Infrastructure as Code (Weeks 5–10)**
-**Goal:** Automate AWS using Terraform  
-**Includes:**
-- Terraform basics → variables → state → modules  
-- Build VPC, subnets, EC2, IAM via IaC  
-- Deploy infrastructure repeatedly & consistently  
-- Add automation checks via CI (fmt, validate)
+## 🟦 AWS Cloud Fundamentals & Core Services  
+- [ ] EC2 Basics  
+- [ ] IAM Users, Groups, Roles  
+- [ ] IAM Policies (inline + managed)  
+- [ ] MFA Security  
+- [ ] S3 + Storage Classes  
+- [ ] VPC Fundamentals  
+- [ ] CloudWatch Metrics & Logs  
+- [ ] CloudTrail  
+- [ ] Billing & Cost Explorer  
+- [ ] Lambda Basics  
+- [ ] ECS/ECR  
+- [ ] RDS Basics  
+- [ ] DynamoDB Basics  
 
----
+## 🟧 Linux & Bash (LFS101x)  
+- [x] Introduction & Concepts  
+- [x] Basics & System Startup  
+- [ ] Command Line Operations  
+- [ ] File Operations  
+- [ ] Processes  
+- [ ] Networking  
+- [ ] Text Editors  
+- [ ] Bash Shell & Scripting  
+- [ ] Advanced Bash Automation  
+- [ ] Local Security Principles  
 
-## **📌 PHASE 3 — Containers & Orchestration (Weeks 11–16)**
-**Goal:** Learn to containerize and deploy modern workloads  
-**Includes:**
-- Docker images, layers, networks, volumes  
-- Docker Compose  
-- Kubernetes fundamentals: pods, deployments, services  
-- First multi-tier Kubernetes project  
-- ECS + ECR integration
+## 🟩 Git & GitHub  
+- [x] Initialize repo  
+- [x] First commit  
+- [x] Remote configuration  
+- [x] `.gitignore` created  
+- [x] Pre-commit hook installed  
+- [ ] Branching & merging  
+- [ ] Git workflows  
+- [ ] GitHub Actions  
+- [ ] CI/CD integration  
 
----
+## 🟨 SQL & Database Engineering  
+- [ ] SQL & PostgreSQL (FCC)  
+- [ ] Bash + SQL automation  
+- [ ] Celestial Bodies DB Project  
+- [ ] World Cup DB Project  
+- [ ] Salon Scheduler Project  
+- [ ] Periodic Table Project  
+- [ ] Number Guessing Game  
+- [ ] RDS Basics  
+- [ ] DynamoDB Patterns  
 
-## **📌 PHASE 4 — DevOps Automation (Weeks 17–20)**
-**Goal:** Build CI/CD pipelines & automation workflows  
-**Includes:**
-- GitHub Actions workflows  
-- Automated Docker builds  
-- Terraform pipelines  
-- Full ECS/Lambda deployment pipeline  
-- Monitoring with CloudWatch + CloudTrail
+## 🟥 Infrastructure as Code (Terraform)  
+- [ ] Install Terraform  
+- [ ] Providers & resources  
+- [ ] Variables & outputs  
+- [ ] Terraform state  
+- [ ] AWS provider config  
+- [ ] VPC via Terraform  
+- [ ] EC2 via Terraform  
+- [ ] IAM roles via Terraform  
+- [ ] S3 backend + DynamoDB locking  
+- [ ] Full Terraform architecture projects  
 
----
+## 🟪 Containers & Kubernetes  
 
-## **📌 PHASE 5 — Capstone Projects (Weeks 21–24)**
-**Goal:** Build production-grade systems & job-ready portfolio  
-**Includes:**
-- Multi-tier cloud architecture  
-- Serverless workflow  
-- Database-backed applications (RDS / DynamoDB)  
-- CI/CD-integrated applications  
-- Final Capstone Project (Terraform + CI/CD + App)
+### Docker  
+- [ ] docker run / ps / images  
+- [ ] Build Docker images  
+- [ ] Dockerfile best practices  
+- [ ] Docker Compose  
+- [ ] Push to Docker Hub  
 
----
+### Kubernetes  
+- [ ] Pods  
+- [ ] Deployments & ReplicaSets  
+- [ ] Services  
+- [ ] ConfigMaps & Secrets  
+- [ ] Volumes & PVCs  
+- [ ] Kubernetes multi-tier project  
 
-# 📘 DAILY TRAINING STRUCTURE
+## 🟫 CI/CD Engineering  
+- [ ] CI/CD fundamentals  
+- [ ] GitHub Actions workflows  
+- [ ] Docker build pipelines  
+- [ ] Terraform validate + plan pipeline  
+- [ ] ECS or Lambda deployment automation  
+- [ ] Multi-environment pipelines  
+- [ ] End-to-end CI/CD project  
 
-Every day produces:
+## 🟩 Capstone & Architecture Projects  
+- [ ] IAM Secure Environment  
+- [ ] EC2 Linux Server Setup  
+- [ ] S3 Static Website Hosting  
+- [ ] VPC Architecture  
+- [ ] Monitoring Dashboard  
+- [ ] Serverless Pipeline  
+- [ ] Dockerized Microservice  
+- [ ] Kubernetes Multi-tier Deployment  
+- [ ] Full Production Architecture (Capstone)  
 
-- Notes & takeaways  
-- Hands-on labs  
-- Commands & troubleshooting  
-- Portfolio-grade markdown files  
-- Screenshots  
-- Git commits documenting progress  
+# 📁 Repository Structure  
+(Auto-generated at commit time by pre-commit hook + Python script)
 
-Folders are named `day1/`, `day2/`, etc.
-
----
-
-# 📂 REPOSITORY STRUCTURE  
-This section auto-updates via a VS Code script.  
-Do **not** edit manually.
-
-<!-- START_STRUCTURE -->
+<!-- TREE_START -->
 ```
-./
 ├── .gitignore
 ├── README.md
-├── update_readme_structure.py
-├── day1/
-│   ├── aws-foundations.md
-├── day2/
-│   ├── aws-regions-azs.md
-├── day3/
+├── day1
+│   └── aws-foundations.md
+├── day2
+│   └── aws-regions-azs.md
+├── day3
 │   ├── ec2-instance.md
-│   ├── linux-filesystem.md
-│   ├── images/
+│   ├── images
 │   │   ├── ec2-instance-running.png
 │   │   ├── etc.png
 │   │   ├── filesystem.png
@@ -106,13 +145,13 @@ Do **not** edit manually.
 │   │   ├── nano_editor.png
 │   │   ├── ssh-connection.png
 │   │   ├── usr.png
-│   │   ├── var_log.png
-├── day4/
+│   │   └── var_log.png
+│   └── linux-filesystem.md
+├── day4
 │   ├── bash.md
 │   ├── ec2-readonly-trust-policy.json
 │   ├── iam.md
-│   ├── linux-cli.md
-│   ├── images/
+│   ├── images
 │   │   ├── group.png
 │   │   ├── group_users.png
 │   │   ├── policy_simulator_results.png
@@ -126,95 +165,70 @@ Do **not** edit manually.
 │   │   ├── user_permissions.png
 │   │   ├── user_read_s3_success.png
 │   │   ├── user_vpc_access_denied.png
-│   │   ├── user_with_mfa.png
+│   │   └── user_with_mfa.png
+│   └── linux-cli.md
+└── update_readme_structure.py
 ```
-<!-- END_STRUCTURE -->
 
----
+<!-- TREE_END -->
 
-# 🛠 TECHNOLOGIES COVERED
+# 📘 Daily Portfolio Entries
 
-### **☁ AWS Cloud**
-IAM • EC2 • S3 • VPC • Lambda • RDS • DynamoDB • CloudWatch • CloudTrail • CloudFront • ECS • ECR • Route 53
+Each training day has its own folder containing:
 
-### **🐧 Linux**
-CLI • Bash scripting • Processes • File ops • Networking
+- Markdown notes  
+- Hands-on steps  
+- Commands used  
+- Errors & fixes  
+- Screenshots  
+- Takeaways  
 
-### **🔧 DevOps Toolchain**
-Git • Bash automation • CI/CD (GitHub Actions)
+Example:
 
-### **🧱 Infrastructure as Code**
-Terraform • Variables • Modules • State • AWS provider
+day1/
+  notes.md
+day2/
+  notes.md
+day3/
+  ec2.md
+  linux-filesystem.md
+  screenshots/
+day4/
+  iam.md
 
-### **🐳 Docker**
-Images • Containers • Volumes • Networks • Compose
+# ⚙️ Automation Included
 
-### **☸ Kubernetes**
-Pods • Deployments • Services • ConfigMaps • Secrets • PVCs
+### ✔ Pre-Commit Hook  
+Automatically updates the README with the latest directory tree before every commit.
 
-### **🗄 SQL / Databases**
-PostgreSQL • Bash + SQL pipelines • FCC SQL projects
+### ✔ Python Script  
+`update_readme_structure.py`  
+Generates the current repository folder structure dynamically.
 
----
+# 🎓 Training Curriculum (High-Level)
 
-# 📈 PORTFOLIO PROJECT ROADMAP
+This portfolio follows a 6-month structured Cloud & DevOps program covering:
 
-This repo will contain *8–12 full projects*, including:
+- AWS Cloud Practitioner Essentials (13 modules)  
+- Linux Foundations (LFS101x full course)  
+- FreeCodeCamp SQL, Bash & Git  
+- Docker & Kubernetes  
+- Terraform IaC  
+- CI/CD pipelines  
+- DevOps automation  
+- 8–12 production-grade cloud projects  
+- AWS Solutions Architect Associate prep  
 
-## ✅ **AWS Projects**
-- EC2 Linux server deployment  
-- IAM secure environment  
-- S3 static website  
-- Full VPC network (public/private subnets)  
-- CloudWatch monitoring dashboard  
-- Serverless application  
-- Multi-tier cloud application (Capstone)
+# 🧠 Career Goal
 
-## 🛠 **DevOps Projects**
-- Bash automation scripts  
-- Git workflows  
-- Terraform IaC for multiple AWS architectures  
-- ECS + Docker deployment  
-- Kubernetes multi-tier deployment  
-- CI/CD pipelines (3 levels)
+Prepare for roles including:
 
-## 🗄 **FreeCodeCamp SQL Projects**
-- Celestial Bodies Database  
-- World Cup Database  
-- Salon Scheduler  
-- Periodic Table  
-- Number Guessing Game  
+- Cloud Engineer  
+- DevOps Engineer  
+- Site Reliability Engineer  
+- Infrastructure Engineer  
+- Platform Engineer  
 
----
+# ✔ Explore the Projects  
 
-# 📚 WEEK-BY-WEEK PROGRESSION SUMMARY
-
-### **WEEK 1 – Cloud + Linux Basics**
-EC2, IAM, S3, Regions/AZs, Linux chapters 1–4, Bash fundamentals
-
-### **WEEK 2 – Compute + IAM + Networking + Git**
-IAM roles/policies, VPC routing, Bash scripting, Git fundamentals
-
-### **WEEK 3 – Linux + SQL Foundations**
-SQL basics, Bash scripting, CloudWatch/CloudTrail, Linux processes
-
-### **WEEK 4 – CP Review + Git Projects**
-CP modules 1–13 finished, Git projects, S3 website, VPC builds
-
-(Weeks 5–24 follow all phases listed above.)
-
----
-
-# 🤝 CONNECT WITH ME
-
-- **GitHub:** https://github.com/luiscastillodev  
-- **LinkedIn:** https://www.linkedin.com/in/luiscastillomsse  
-
-If you’re a recruiter or hiring manager, feel free to reach out!
-
----
-
-# 🧩 NOTES
-
-This README evolves as the portfolio grows.  
-Daily portfolio files live under `/dayX` folders and include markdown documentation + screenshots.
+Feel free to browse the daily folders and follow along as the portfolio grows.
