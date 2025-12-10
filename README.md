@@ -129,6 +129,7 @@ This repository includes:
 
 <!-- TREE_START -->
 ```
+├── .gitattributes
 ├── .gitignore
 ├── README.md
 ├── day1
